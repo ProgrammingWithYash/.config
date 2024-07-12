@@ -1,0 +1,12 @@
+2024-07-09T04:46:17.770Z - info: [ui] [AppStore] loading 2 repositories from store
+2024-07-09T04:46:17.776Z - info: [ui] [AppStore] found account: ProgrammingWithYash (Yash Vardhan Kejriwal)
+2024-07-09T04:46:18.353Z - info: [ui] launching: 3.3.12-linux2 (Linux 6.8.0-36-generic)
+2024-07-09T04:46:18.354Z - info: [ui] execPath: '/usr/lib/github-desktop/github-desktop'
+2024-07-09T04:46:18.609Z - info: [ui] Subscribed 'ProgrammingWithYash' to Alive channel
+2024-07-09T04:46:19.226Z - info: [ui] Stats reported.
+2024-07-09T04:46:22.239Z - info: [ui] [BranchPruner] No branches to prune.
+2024-07-09T04:46:27.919Z - info: [ui] [Timing] Action 'create commit' for 'ProgrammingWithYash/nykaa-website-new' took 0.206s
+2024-07-09T04:46:29.477Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: nykaa-website-new - ProgrammingWithYash (has token)
+2024-07-09T04:46:30.853Z - info: [ui] Executing push: git -c credential.helper= push origin main:main --progress (took 1.371s)
+2024-07-09T04:46:31.861Z - info: [ui] Executing fetch: git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin (took 1.005s)
+2024-07-09T04:46:32.917Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 1.051s)

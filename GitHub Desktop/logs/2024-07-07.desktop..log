@@ -1,0 +1,23 @@
+2024-07-07T09:10:30.371Z - info: [ui] [AppStore] loading 1 repositories from store
+2024-07-07T09:10:30.377Z - info: [ui] [AppStore] found account: ProgrammingWithYash (Yash Vardhan Kejriwal)
+2024-07-07T09:10:31.537Z - info: [ui] launching: 3.3.12-linux2 (Linux 6.8.0-36-generic)
+2024-07-07T09:10:31.540Z - info: [ui] execPath: '/usr/lib/github-desktop/github-desktop'
+2024-07-07T09:10:37.434Z - info: [ui] Stats reported.
+2024-07-07T09:10:42.171Z - info: [ui] Subscribed 'ProgrammingWithYash' to Alive channel
+2024-07-07T09:10:46.674Z - info: [ui] [Timing] Action 'create commit' for 'ProgrammingWithYash/nykaa-website-new' took 0.235s
+2024-07-07T09:10:49.225Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: nykaa-website-new - ProgrammingWithYash (has token)
+2024-07-07T09:11:01.647Z - info: [ui] Executing push: git -c credential.helper= push origin main:main --progress (took 12.418s)
+2024-07-07T09:11:02.911Z - info: [ui] Executing fetch: git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin (took 1.259s)
+2024-07-07T09:11:04.264Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 1.351s)
+2024-07-07T11:18:59.244Z - info: [ui] [AppStore] loading 1 repositories from store
+2024-07-07T11:18:59.248Z - info: [ui] [AppStore] found account: ProgrammingWithYash (Yash Vardhan Kejriwal)
+2024-07-07T11:18:59.303Z - info: [ui] [BranchPruner] Last prune took place 2 hours ago - skipping
+2024-07-07T11:18:59.819Z - info: [ui] launching: 3.3.12-linux2 (Linux 6.8.0-36-generic)
+2024-07-07T11:18:59.821Z - info: [ui] execPath: '/usr/lib/github-desktop/github-desktop'
+2024-07-07T11:18:59.984Z - info: [ui] Subscribed 'ProgrammingWithYash' to Alive channel
+2024-07-07T11:19:15.645Z - info: [ui] Executing fetch: git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin (took 1.068s)
+2024-07-07T11:19:16.660Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 1.013s)
+2024-07-07T11:21:49.073Z - info: [ui] [AppStore] adding repository at /home/yash/.config/DOTFILES to store
+2024-07-07T11:22:01.356Z - info: [ui] Executing push: git -c credential.helper= push origin main --set-upstream --progress (took 6.407s)
+2024-07-07T11:22:03.827Z - info: [ui] [BranchPruner] No branches to prune.
+2024-07-07T11:43:04.503Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 1 repositories took 0.6s of which 0.0s paused, total 0.6s

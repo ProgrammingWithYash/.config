@@ -1,0 +1,12 @@
+[shell]
+program = "fish"
+args = []
+
+
+[window]
+opacity = 0.9
+padding = {x = 5, y = 5}
+
+[font]
+size = 14
+normal = {family = "CaskaydiaCove NFM", style = "Regular"}
